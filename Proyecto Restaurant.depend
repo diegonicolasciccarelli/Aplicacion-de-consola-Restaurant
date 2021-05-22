@@ -1,0 +1,1800 @@
+# depslib dependency file v1.0
+1603558702 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603657782 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603656454 c:\users\diego ciccarelli\desktop\proyecto restaurant\fecha.h
+
+1603558532 c:\users\diego ciccarelli\desktop\proyecto restaurant\menu.h
+
+1603660903 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+
+1571584339 c:\users\diego ciccarelli\desktop\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603660700 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603658901 c:\users\diego ciccarelli\desktop\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603660903 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603657201 source:c:\users\diego ciccarelli\desktop\proyecto restaurant\trabajador.cpp
+
+1603660742 c:\users\diego ciccarelli\desktop\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603750805 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603642054 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\fecha.h
+
+1603646342 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603544302 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603544132 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\menu.h
+
+1603646502 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+
+1571569938 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603750936 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603751269 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"trabajador.h"
+
+1603751039 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1603750973 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1603751063 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\venta.h
+	"fecha.h"
+
+1603751160 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+
+1603751160 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\plato.h
+
+1603751125 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+
+1603750805 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\persona.h
+	"fecha.h"
+
+1603642054 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\fecha.h
+
+1603646342 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\cliente.h
+	"persona.h"
+
+1603751039 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1603750973 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1603751063 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\venta.h
+	"fecha.h"
+
+1603740498 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1603544302 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1603752399 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\menu.h
+
+1603756448 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+
+1603850210 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1603849661 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\plato.h
+
+1603751269 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"trabajador.h"
+
+1603751125 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1603751352 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"venta.h"
+
+1603848407 source:c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+	"plato.h"
+
+1571569938 c:\users\jcamp\desktop\nueva carpeta (3)\proyecto restaurant 26 10\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605750370 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1605742833 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\persona.h
+	"fecha.h"
+
+1605742556 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\fecha.h
+
+1605753016 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\cliente.h
+	"persona.h"
+
+1605754637 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+	"plato.h"
+
+1605753016 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1605752687 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\venta.h
+	"fecha.h"
+
+1605127988 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1604341704 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1605657470 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\menu.h
+
+1605744073 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+
+1605754542 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+
+1605755697 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1605752364 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\plato.h
+
+1605752803 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1605753016 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1605754896 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1603879368 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604493689 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1604443551 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\persona.h
+	"fecha.h"
+
+1604445274 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\fecha.h
+
+1604449475 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\cliente.h
+	"persona.h"
+
+1604005393 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\menu.h
+
+1604446006 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+
+1604446006 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1604493594 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\venta.h
+	"fecha.h"
+
+1604491893 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+
+1604359705 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1604492991 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+
+1603893769 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604451078 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\plato.h
+
+1604444819 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1604450886 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1604451153 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1604445274 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+
+1604493712 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto 3-11\proyecto_restaurant-main\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+
+1604507728 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1604507728 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\ui.h
+
+1604526953 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1605145638 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\persona.h
+	"fecha.h"
+
+1605146081 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\fecha.h
+
+1604449475 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\cliente.h
+	"persona.h"
+
+1605051313 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\menu.h
+
+1604539465 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+	"plato.h"
+
+1604538390 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1605146338 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\venta.h
+	"fecha.h"
+
+1605139978 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\plato.h
+
+1605145988 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1605145858 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1604359705 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1605140940 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+
+1604525729 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\ui.h
+
+1603893769 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605145638 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+
+1605147254 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1605146394 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+
+1604525729 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1605146512 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+
+1605147734 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1605147692 c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\informes.h
+	"menu.h"
+
+1605141110 source:c:\users\diego ciccarelli\desktop\ultimo zip\proyecto restaurant\configuraciones.cpp
+
+1605742555 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1605755950 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1605659687 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\informes.h
+	"menu.h"
+
+1604526953 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1605145638 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\persona.h
+	"fecha.h"
+
+1605146081 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\fecha.h
+
+1604449475 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\cliente.h
+	"persona.h"
+
+1605051313 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\menu.h
+
+1605141110 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\configuraciones.cpp
+
+1605156708 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+	"plato.h"
+
+1604538390 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1605151281 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\venta.h
+	"fecha.h"
+
+1605139978 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\plato.h
+
+1605145988 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1605145858 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1605151522 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604525729 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\ui.h
+
+1603893769 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605151505 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\informes.h
+	"menu.h"
+
+1604359705 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1605157473 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+
+1605145638 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+
+1605156543 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1605153533 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+
+1604525729 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1605156437 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+
+1604526953 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+
+1605145638 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\persona.h
+	"fecha.h"
+
+1605146081 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\fecha.h
+
+1604449475 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\cliente.h
+	"persona.h"
+
+1605051313 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\menu.h
+
+1605199555 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1603893769 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605151281 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\venta.h
+	"fecha.h"
+
+1605145858 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1604538390 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1605151505 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\informes.h
+	"menu.h"
+
+1605139978 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\plato.h
+
+1605156708 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+	"plato.h"
+
+1605145988 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1605151522 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604525729 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\ui.h
+
+1604359705 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\main.cpp
+	<iostream>
+	"menu.h"
+
+1605199844 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1605145638 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+
+1605156543 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1605153533 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+
+1604525729 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1605156437 source:c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+
+1605199585 c:\users\cpdeco\desktop\proyecto restaurant\proyecto restaurant\configuraciones.h
+
+1605742555 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant\configuraciones.h
+
+1606180257 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"plato.h"
+
+1606080377 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\persona.h
+	"fecha.h"
+
+1606077775 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\fecha.h
+
+1605756693 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\cliente.h
+	"persona.h"
+
+1605657470 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\menu.h
+
+1606185322 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1603879368 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606182008 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\venta.h
+	"fecha.h"
+
+1606083387 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1606163996 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1606184171 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\informes.h
+	"menu.h"
+
+1606184670 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\plato.h
+
+1606164596 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"menu.h"
+	"plato.h"
+
+1606077775 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1606184753 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604507728 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\ui.h
+
+1604341704 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\main.cpp
+	<iostream>
+	"menu.h"
+
+1606185322 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\menu.cpp
+	<iostream>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1606185259 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\configuraciones.h
+
+1606179748 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+	"plato.h"
+
+1606184670 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+
+1606180616 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1604507728 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1606182790 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant final\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"plato.h"
+
+1606496450 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"plato.h"
+
+1606858760 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\persona.h
+	"fecha.h"
+
+1606077775 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\fecha.h
+
+1606365029 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\cliente.h
+	"persona.h"
+
+1606495132 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\menu.h
+
+1606185544 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1603879368 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606591971 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\venta.h
+	"fecha.h"
+
+1606365052 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1606591971 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1606184171 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\informes.h
+	"menu.h"
+
+1606860676 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\plato.h
+
+1606591868 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"rlutil.h"
+	"menu.h"
+	"plato.h"
+
+1606077775 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1606456746 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604507728 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\ui.h
+
+1606495179 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\main.cpp
+	<iostream>
+	"menu.h"
+
+1606591868 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\menu.cpp
+	<iostream>
+	<windows.h>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1606185544 c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\configuraciones.h
+
+1606858819 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+	"plato.h"
+
+1606495731 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1604507728 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1606590453 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"plato.h"
+
+1606860929 source:c:\users\jcamp\desktop\pre\proyecto_restaurant-main\proyecto restaurant final\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+	"rlutil.h"
+
+1606496450 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"plato.h"
+
+1603879368 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606080377 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\persona.h
+	"fecha.h"
+
+1606077775 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\fecha.h
+
+1606365029 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\cliente.h
+	"persona.h"
+
+1606495132 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\menu.h
+
+1606453804 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\plato.h
+
+1606185544 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1606445665 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\venta.h
+	"fecha.h"
+
+1606365052 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1606446004 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1606184171 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\informes.h
+	"menu.h"
+
+1606496361 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"rlutil.h"
+	"menu.h"
+	"plato.h"
+
+1606077775 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1606456746 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604507728 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\ui.h
+
+1606495179 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\main.cpp
+	<iostream>
+	"menu.h"
+
+1606497031 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\menu.cpp
+	<iostream>
+	<windows.h>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1606185544 c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\configuraciones.h
+
+1606496703 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+	"plato.h"
+
+1606496213 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+	"rlutil.h"
+
+1606495731 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1604507728 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1606495712 source:c:\users\cpdeco\downloads\proyecto resto\proyecto restaurant final\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"plato.h"
+
+1607117912 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"plato.h"
+
+1603879368 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606858760 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\persona.h
+	"fecha.h"
+
+1606077775 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\fecha.h
+
+1606365029 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\cliente.h
+	"persona.h"
+
+1606495132 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\menu.h
+
+1606860676 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\plato.h
+
+1606185544 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1606591971 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\venta.h
+	"fecha.h"
+
+1606365052 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1606591971 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1606184171 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\informes.h
+	"menu.h"
+
+1606591868 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"rlutil.h"
+	"menu.h"
+	"plato.h"
+
+1606077775 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1606456746 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604507728 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\ui.h
+
+1607118596 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\main.cpp
+	<iostream>
+	"menu.h"
+
+1606591868 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\menu.cpp
+	<iostream>
+	<windows.h>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1606185544 c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\configuraciones.h
+
+1607117869 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+	"plato.h"
+
+1606860929 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+	"rlutil.h"
+
+1607118735 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1604507728 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1607123000 source:c:\users\diego ciccarelli\desktop\el proyecto\proyecto restaurant\proyecto restaurant final\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"plato.h"
+
+1607117912 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\cliente.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"plato.h"
+
+1603879368 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606858760 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\persona.h
+	"fecha.h"
+
+1606077775 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\fecha.h
+
+1606365029 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\cliente.h
+	"persona.h"
+
+1606495132 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\menu.h
+
+1606860676 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\plato.h
+
+1606185544 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\configuraciones.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1606591971 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\venta.h
+	"fecha.h"
+
+1606365052 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\trabajador.h
+	"persona.h"
+	"fecha.h"
+
+1606591971 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\detalleventa.h
+	"venta.h"
+	"fecha.h"
+
+1606184171 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\informes.h
+	"menu.h"
+
+1606591868 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\detalleventa.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"rlutil.h"
+	"menu.h"
+	"plato.h"
+
+1606077775 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\fecha.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"trabajador.h"
+
+1606456746 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\informes.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"informes.h"
+	"plato.h"
+
+1604507728 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\ui.h
+
+1607118596 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\main.cpp
+	<iostream>
+	"menu.h"
+
+1606591868 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\menu.cpp
+	<iostream>
+	<windows.h>
+	"Menu.h"
+	"fecha.h"
+	"ui.h"
+	"rlutil.h"
+	"plato.h"
+	"trabajador.h"
+	"venta.h"
+	"detalleVenta.h"
+	"cliente.h"
+	"informes.h"
+	"configuraciones.h"
+
+1606185544 c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\configuraciones.h
+
+1607117869 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\persona.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"cliente.h"
+	"menu.h"
+	"fecha.h"
+	"plato.h"
+
+1606860929 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\plato.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"plato.h"
+	"menu.h"
+	"rlutil.h"
+
+1607118735 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\trabajador.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"persona.h"
+	"trabajador.h"
+	"menu.h"
+	"plato.h"
+
+1604507728 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1607123000 source:c:\users\diego ciccarelli\desktop\utn\segundo cuatrimestre\laboratorio ii\el proyecto\proyecto restaurant\proyecto restaurant final\venta.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+	"venta.h"
+	"menu.h"
+	"fecha.h"
+	"cliente.h"
+	"trabajador.h"
+	"persona.h"
+	"detalleVenta.h"
+	"plato.h"
+
